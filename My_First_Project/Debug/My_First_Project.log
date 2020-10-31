@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Software Programming\My Projects\C++ OOP\Freshman\My_First_Project\My_First_Project\Source.cpp(215,19): warning C4129: ' ': unrecognized character escape sequence
+D:\Software Programming\My Projects\C++ OOP\Freshman\My_First_Project\My_First_Project\Source.cpp(225,19): warning C4129: ' ': unrecognized character escape sequence
+  My_First_Project.vcxproj -> D:\Software Programming\My Projects\C++ OOP\Freshman\My_First_Project\Debug\My_First_Project.exe
